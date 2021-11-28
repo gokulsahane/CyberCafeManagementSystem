@@ -1,0 +1,80 @@
+C:\Users\Core-i3\documents\visual studio 2010\Projects\CyberCafeManagementSystem\CyberCafeManagementSystem\bin\Debug\CyberCafeManagementSystem.exe
+C:\Users\Core-i3\documents\visual studio 2010\Projects\CyberCafeManagementSystem\CyberCafeManagementSystem\bin\Debug\CyberCafeManagementSystem.pdb
+C:\Users\Core-i3\documents\visual studio 2010\Projects\CyberCafeManagementSystem\CyberCafeManagementSystem\bin\Debug\CyberCafeManagementSystem.xml
+C:\Users\Core-i3\documents\visual studio 2010\Projects\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Core-i3\documents\visual studio 2010\Projects\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Core-i3\documents\visual studio 2010\Projects\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\CyberCafeManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Core-i3\documents\visual studio 2010\Projects\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\CyberCafeManagementSystem.exe
+C:\Users\Core-i3\documents\visual studio 2010\Projects\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\CyberCafeManagementSystem.xml
+C:\Users\Core-i3\documents\visual studio 2010\Projects\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\CyberCafeManagementSystem.pdb
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.frmMain.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.AboutUs.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.AddMemberDetails.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.AddMemberEntryDetails.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.AddNewComputer.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.ComputerReports.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.EditComputerDetails.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.EditMemberDetails.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.EditMemberEntryDetails.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.EntryReports.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.MemberReports.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.Receipt.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\CyberCafeManagementSystem.exe
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\CyberCafeManagementSystem.xml
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\CyberCafeManagementSystem.pdb
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\bin\Debug\CyberCafeManagementSystem.exe
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\bin\Debug\CyberCafeManagementSystem.pdb
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\bin\Debug\CyberCafeManagementSystem.xml
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.AboutUs.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.AddMemberDetails.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.AddMemberEntryDetails.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.AddNewComputer.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.ComputerReports.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.EditComputerDetails.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.EditMemberDetails.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.EditMemberEntryDetails.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.EntryReports.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.frmMain.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.MemberReports.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.Receipt.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\CyberCafeManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.ReceiptReports.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.BILLREPT.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.COMPUTERREPT.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.MEMBERENTRYREPT.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.MEMBERREPT.resources
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\bin\Debug\CyberCafeManagementSystem.accdb
+C:\Users\Core-i3\Documents\Visual Studio 2010\Projects\VSMacros80\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\CyberCafeManagementSystem.vbprojResolveAssemblyReference.cache
+D:\vishal\PROJECTS\VB.NET\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\CyberCafeManagementSystem.exe
+D:\vishal\PROJECTS\VB.NET\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\CyberCafeManagementSystem.xml
+D:\vishal\PROJECTS\VB.NET\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\CyberCafeManagementSystem.pdb
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\CyberCafeManagementSystem.exe
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\CyberCafeManagementSystem.xml
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\CyberCafeManagementSystem.pdb
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\bin\Debug\CyberCafeManagementSystem.accdb
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\bin\Debug\CyberCafeManagementSystem.exe
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\bin\Debug\CyberCafeManagementSystem.pdb
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\bin\Debug\CyberCafeManagementSystem.xml
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\CyberCafeManagementSystem.vbprojResolveAssemblyReference.cache
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.AboutUs.resources
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.AddMemberDetails.resources
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.AddMemberEntryDetails.resources
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.AddNewComputer.resources
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.BILLREPT.resources
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.ComputerReports.resources
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.COMPUTERREPT.resources
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.EditComputerDetails.resources
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.EditMemberDetails.resources
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.EditMemberEntryDetails.resources
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.EntryReports.resources
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.frmMain.resources
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.MEMBERENTRYREPT.resources
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.MemberReports.resources
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.MEMBERREPT.resources
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.Receipt.resources
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\WindowsApplication1.ReceiptReports.resources
+D:\CyberCafeManagementSystem\CyberCafeManagementSystem\obj\x86\Debug\CyberCafeManagementSystem.vbproj.GenerateResource.Cache

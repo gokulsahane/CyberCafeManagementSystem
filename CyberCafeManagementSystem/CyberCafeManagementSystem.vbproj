@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B8328F94-8B79-4A9D-AC15-F2A54FC603E4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>CyberCafeManagementSystem</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CyberCafeManagementSystem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CyberCafeManagementSystem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutUs.Designer.vb">
+      <DependentUpon>AboutUs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AboutUs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddMemberDetails.Designer.vb">
+      <DependentUpon>AddMemberDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddMemberDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddMemberEntryDetails.Designer.vb">
+      <DependentUpon>AddMemberEntryDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddMemberEntryDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddNewComputer.Designer.vb">
+      <DependentUpon>AddNewComputer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddNewComputer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BILLREPT.Designer.vb">
+      <DependentUpon>BILLREPT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BILLREPT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComputerReports.Designer.vb">
+      <DependentUpon>ComputerReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ComputerReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMPUTERREPT.Designer.vb">
+      <DependentUpon>COMPUTERREPT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="COMPUTERREPT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="EditComputerDetails.Designer.vb">
+      <DependentUpon>EditComputerDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditComputerDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditMemberDetails.Designer.vb">
+      <DependentUpon>EditMemberDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditMemberDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditMemberEntryDetails.Designer.vb">
+      <DependentUpon>EditMemberEntryDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditMemberEntryDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EntryReports.Designer.vb">
+      <DependentUpon>EntryReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EntryReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MEMBERENTRYREPT.Designer.vb">
+      <DependentUpon>MEMBERENTRYREPT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MEMBERENTRYREPT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemberReports.Designer.vb">
+      <DependentUpon>MemberReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MemberReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MEMBERREPT.Designer.vb">
+      <DependentUpon>MEMBERREPT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MEMBERREPT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Receipt.Designer.vb">
+      <DependentUpon>Receipt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Receipt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReceiptReports.Designer.vb">
+      <DependentUpon>ReceiptReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReceiptReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AboutUs.resx">
+      <DependentUpon>AboutUs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddMemberDetails.resx">
+      <DependentUpon>AddMemberDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddMemberEntryDetails.resx">
+      <DependentUpon>AddMemberEntryDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddNewComputer.resx">
+      <DependentUpon>AddNewComputer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BILLREPT.resx">
+      <DependentUpon>BILLREPT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComputerReports.resx">
+      <DependentUpon>ComputerReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COMPUTERREPT.resx">
+      <DependentUpon>COMPUTERREPT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditComputerDetails.resx">
+      <DependentUpon>EditComputerDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditMemberDetails.resx">
+      <DependentUpon>EditMemberDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditMemberEntryDetails.resx">
+      <DependentUpon>EditMemberEntryDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EntryReports.resx">
+      <DependentUpon>EntryReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MEMBERENTRYREPT.resx">
+      <DependentUpon>MEMBERENTRYREPT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemberReports.resx">
+      <DependentUpon>MemberReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MEMBERREPT.resx">
+      <DependentUpon>MEMBERREPT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Receipt.resx">
+      <DependentUpon>Receipt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReceiptReports.resx">
+      <DependentUpon>ReceiptReports.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CrystalReport1.mht" />
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\164409036-internet-wallpapers.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\164409135-internet-wallpapers.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\164409135-internet-wallpapers1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CyberCafe-900x600.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\memTest.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer-experience-header.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report-clipart-data-reports-mis-concept-word-magnifying-glass-pen-45526121.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\creditcard-receipt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\analytics-data-ss-19201-800x450.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CyberCafeManagementSystem.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
